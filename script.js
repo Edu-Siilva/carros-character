@@ -21,7 +21,7 @@ function renderCharacters(characters) {
     cardContainer.innerHTML = `
       <div class="character-card" onclick="flipCard(this)">
         <div class="card-front">
-          <img src="${character.imagem}" alt="${character.nome}" onerror="this.src='https://via.placeholder.com/300x200/cccccc/666?text=Carros'">
+          <img src="${character.imagem}" alt="${character.nome}" onerror="this.src='https://placehold.co/300x200/cccccc/666?text=Carros'">
           <h3>${character.nome}</h3>
           <p class="click-hint">Clique para ver mais!</p>
         </div>
