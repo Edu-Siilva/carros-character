@@ -29,7 +29,7 @@
   },
   {
     "nome": "Flo",
-    "imagem": "./personagens/flo.png",
+    "imagem":"./personagens/flo.png",
     "modelo": "Chevrolet Bel Air",
     "ano": "1957",
     "informacoes": "Dona do restaurante local e símbolo de hospitalidade, com um charme inconfundível."
@@ -50,7 +50,7 @@
   },
   {
     "nome": "Luigi",
-    "imagem": "./personagens/luigi.png",
+    "imagem": "./personagens/lizzie.png",
     "modelo": "Fiat 500",
     "ano": "1955",
     "informacoes": "Entusiasta das corridas e apaixonado pela cultura italiana, sempre animado para competir."
@@ -79,7 +79,6 @@
   {
     "nome": "Ruivo",
     "imagem": "./personagens/ruivo-1.png",
-    "modelo": "Carro de Bombeiro Personalizado",
     "ano": "2006",
     "informacoes": "Personagem carismático com design vibrante, que traz energia e estilo para a cidade."
   }
